@@ -20,6 +20,8 @@ public class ArrayIteration {
 				System.out.println(x);
 			}
 		}
+		
+		System.out.println("hello");
 
 	}
 }
